@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # food
 
 #  Flutter Food Delivery App
@@ -28,3 +29,6 @@ and place food orders.
 ```bash
 flutter pub get
 flutter run
+=======
+# Food-Delivery-Mobile-Application
+>>>>>>> 13843306b15c440e79a3843134bd4de13a8401ae
