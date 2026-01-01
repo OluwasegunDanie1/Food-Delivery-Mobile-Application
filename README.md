@@ -20,7 +20,7 @@ and place food orders.
 - Dart
 - Provider (State management)
 - Sharedpreference (local storage)
-- Firebase (optional)
+- Firebase
 
 ## 📸 Screenshots
 
